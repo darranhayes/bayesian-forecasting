@@ -1,0 +1,47 @@
+.vs/
+_NCrunch_Bayes1/
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+**/.idea
+
+.gradle
+build/
+
+# C#/.Net
+bin/
+obj/
+csx/
+rcf/
+packages/
+*.user
+*.suo
+
+# DAZ output of static content projects
+output-content/
